@@ -1,0 +1,20 @@
+.todo{
+    display: flex;
+    padding: 5px 20px;
+    justify-content: space-between;
+    max-width: 500px;
+    max-height: 50px;
+    border: 1px solid #3422b8;
+    margin: 10px 0;
+    border-radius: 20px;
+    align-items: center;
+}
+.app{
+    max-width: 550px;
+    margin: 0 auto;
+}
+.throw{
+    text-decoration: line-through;
+	text-decoration-color: red;
+    cursor: pointer;
+}
